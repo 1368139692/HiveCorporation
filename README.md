@@ -15,9 +15,8 @@ You are an employee of Hive Corporation, a Singularity level Corporation. You ne
 7. 本插件作者有且仅有LIGH_Y
 
 # 介绍(Introductions)
-1. 为原版粘液新增200+物品。
-2. 新增一条独立粘液科技线。
-3. 新增维度探索玩法。
+1. 为原版粘液新增100+物品。
+2. 一种新的物品分类。
 
 # 安装&使用(Install&Use)
 ### 前置插件(Reliance)
